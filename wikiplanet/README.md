@@ -1,4 +1,4 @@
-# wiki_galaxy
+# wikiplanet
 
 ## Project setup
 ```
